@@ -77,7 +77,7 @@ def analyzeExpenses(fileName):
 		print(f"Error: The file '{fileName}' was not found. Please ensure it is in the same directory.")
 
 # Run the analysis on your data file:
-inputFileName = input("Enter the exactle name of the csv file (e.g: Data.csv):\n")
+inputFileName = input("Enter the exact name of the csv file (e.g: Data.csv):\n")
 
 #temporary script:
 if inputFileName == "":
